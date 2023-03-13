@@ -5,4 +5,4 @@ Espero que esta vez todo este en condiciones para la correccion.
 
 Observacion: El diseño de la pagina tuvo una leve modificacion al ser cargada el Github Pages. Actualmente estoy investigando a qué se debe.
 
-Adjunto la URL de la pagina: https://enzo-araujo.github.io/
+Adjunto la URL de la pagina: https://enzo-araujo.github.io/EnzoAraujoCV.github.io/
