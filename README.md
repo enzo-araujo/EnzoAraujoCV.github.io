@@ -1,4 +1,4 @@
-# Argentina Programa 4.0 - EnzoAraujoCV
+# Argentina Programa 4.0 - Enzo Araujo CV
 
 Hola! Tuve muchos inconvenientes al momento de cargar los archivos en el repositorio de GitHub, a pesar de seguir las instrucciones indicadas por el profesor. 
 Espero que esta vez todo este en condiciones para la correccion.
