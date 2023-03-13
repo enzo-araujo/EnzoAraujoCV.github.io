@@ -1,6 +1,4 @@
-# enzo-araujo.github.io
-
-Argentina Programa 4.0 - EnzoAraujoCV
+#Argentina Programa 4.0 - EnzoAraujoCV
 
 Hola! Tuve muchos inconvenientes al momento de cargar los archivos en el repositorio de GitHub, a pesar de seguir las instrucciones indicadas por el profesor. 
 Espero que esta vez todo este en condiciones para la correccion.
